@@ -1,0 +1,64 @@
+header{
+	background-color: yellow;
+}
+
+h1{
+	margin-left: 40%;
+}
+
+.menu {
+	position: absolute;
+    width: 20%; 
+    margin-right: 20%;
+    margin-left: 0em;
+    float: left;
+
+}
+
+li{
+    list-style-type: none; 
+}
+
+ul{
+    margin-left: 0px; 
+    padding-left: 0px; 
+}
+
+.main-content{
+	position: absolute;
+	max-width: 60%;
+    width: 60%;
+    float: left;
+    margin-left: 20%;
+    
+    border-left: solid green;
+    padding-left: 12px;
+    margin-bottom: 2%;
+}
+
+#last-posts-block{
+	position: absolute;
+	width: 20%;
+    border: dashed green;
+    text-align: right;
+    margin-left: 78.5%;
+
+}
+
+footer{
+	text-align: center;
+}
+
+a:visited{
+    color:red
+}
+
+a:hover{
+    color: green;
+}
+
+.contact{
+	position: absolute;
+	margin-top: 33%;
+	margin-left: 40%;
+}

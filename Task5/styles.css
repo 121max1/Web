@@ -1,0 +1,79 @@
+body{
+	background-color: #e5dcdc;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+}
+
+.header{
+	position: relative;
+	border-bottom: solid;
+	border-color: orange;
+	border-width: 2px;
+}
+
+.name-tittle-header{
+	margin-left: 2%;
+	margin-top: -3%;
+}
+.name-tittle-header p{
+	margin-top: -2%;
+}
+
+
+
+.profile-block{
+	position: relative;
+	border-bottom: solid;
+	border-color: gray;
+	border-width: 1px;
+}
+
+.profile-block-name{
+	position: absolute;
+	margin-left: 2%;
+	color: orange;
+	margin-top: -2%;
+	
+}
+
+.profile-block-description{
+	position: relative;
+	margin-left: 20%;
+	text-align: left;
+
+}
+
+.contact-block{
+	width: 20%;
+	margin-left: 80%;
+	text-align: left;
+    position: absolute;
+    margin-top: -6.5%
+}
+
+.table-past-projects{
+  font-size: 16px;
+  text-align: left;
+  border-collapse: collapse;
+}
+.table-past-projects th:first-child, .table-past-projects td:first-child {
+border-left: none;
+}
+
+.table-past-projects th {
+font-weight: normal;
+border-bottom: 2px solid #F5E1A6;
+border-right: 50px;
+border-left: 50px;
+padding: 8px 10px;
+}
+
+.table-past-projects td {
+padding: 12px 10px;
+}
+
+.profile-block{
+	/*
+	position: absolute;
+	margin-top: 20%;
+	*/
+}
